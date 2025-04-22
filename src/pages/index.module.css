@@ -1,0 +1,28 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.header{
+  margin: 20px 0;
+  padding: 0 20px;
+
+  & h1, p{
+    text-align: center;
+  }
+
+  & .buttonContainer{
+    display: flex;
+    justify-content: center;
+
+    & a{
+      color: #fff;
+      background-color: #2563eb;
+    }
+
+    & a:hover{
+      background-color: #1d4ed8;
+      transition: background-color .3s ease-in-out;
+    }
+  }
+}

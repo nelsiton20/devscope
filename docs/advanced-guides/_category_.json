@@ -1,0 +1,8 @@
+{
+    "label" : "🧠 Advanced Guides",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description" : "En esta sección abordaremos técnicas más avanzadas para la depuración y análisis de aplicaciones web utilizando las herramientas del navegador. Estas guías están orientadas a desarrolladores que desean llevar su flujo de trabajo a un nivel superior."
+    }
+}
