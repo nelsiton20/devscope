@@ -96,7 +96,7 @@ const config = {
           },
         ],
       },
-      footer: {
+      /*footer: {
         style: 'dark',
         links: [
           {
@@ -108,7 +108,7 @@ const config = {
               },
             ],
           },
-          /*{
+          {
             title: 'Community',
             items: [
               {
@@ -124,14 +124,14 @@ const config = {
                 href: 'https://x.com/docusaurus',
               },
             ],
-          },*/
+          },
           {
             title: 'More',
             items: [
-              /*{
+              {
                 label: 'Blog',
                 to: '/blog',
-              },*/
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/nelsiton20',
@@ -140,7 +140,7 @@ const config = {
           },
         ],
         copyright: "Este sitio fue diseñado y desarrollado por Nelson Rojas Camones. Los bugs son solo características no documentadas.",
-      },
+      },*/
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
